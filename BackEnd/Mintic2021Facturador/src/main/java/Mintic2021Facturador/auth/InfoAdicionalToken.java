@@ -1,4 +1,4 @@
-package MinTic2021.Facturador.MensajeriayEnvios.LDJ.Ltda.auth;
+package Mintic2021Facturador.auth;
 
 import java.util.Map;
 import java.util.HashMap;
