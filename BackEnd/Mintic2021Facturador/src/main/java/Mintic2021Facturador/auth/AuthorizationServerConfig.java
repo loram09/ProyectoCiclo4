@@ -17,8 +17,8 @@ import org.springframework.security.oauth2.provider.token.TokenEnhancerChain;
 import org.springframework.security.oauth2.provider.token.store.JwtAccessTokenConverter;
 import org.springframework.security.oauth2.provider.token.store.JwtTokenStore;
 
-import MinTic2021.Facturador.MensajeriayEnvios.LDJ.Ltda.auth.InfoAdicionalToken;
-import MinTic2021.Facturador.MensajeriayEnvios.LDJ.Ltda.auth.JwtConfig;
+import Mintic2021Facturador.InfoAdicionalToken;
+import Mintic2021Facturador.auth.JwtConfig;
 
 @Configuration
 @EnableAuthorizationServer
