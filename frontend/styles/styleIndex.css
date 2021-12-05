@@ -1,0 +1,43 @@
+body{
+    margin: 2em;
+    background:#EDE7D9;
+    font-family: 'Open Sans';
+}
+
+nav{
+    background: #FE5E41;
+    border-radius: 1em;
+    
+}
+
+
+.display-6 {
+    color:#04080F;
+    text-decoration: none;
+    padding: 1em;
+    
+}
+
+.nav :hover{
+    color:#EDE7D9
+}
+
+.carousel-caption{
+    border-radius: 1.3em;
+    background: #828488;
+    opacity: 90%;
+    color:#60cdff;
+   
+    
+}
+
+/*
+    colores
+azul:2274A5
+negro:04080F
+verde:3C896D
+ocre claro:EDE7D9
+naranja:FE5E41
+
+
+*/
